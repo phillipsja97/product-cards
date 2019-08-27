@@ -1,0 +1,191 @@
+.maintitleborder {
+    border-style: solid;
+    border-color: lightblue;
+    border-width: 1px;
+    background-image: url(https://www.metallica.com/on/demandware.static/-/Sites-Metallica-Library/default/dw660a6923/images/heroes/store/clothing-banner-20190114.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: 5px 10px gray;
+
+}
+
+a {
+    display: inline; 
+    color: black;
+    background-color: white;
+   
+}
+
+a:hover {
+    background-color:#0097a7; 
+} 
+
+h1 {
+    background-color:white;
+    color: darkgray;
+    border: 2px solid gray;
+    font-family: 'Cormorant Garamond', serif;
+    text-shadow: -1px 0 #0097a7, 0 1px #0097a7, 1px 0 #0097a7, 0 -1px #0097a7;
+}
+
+.maintitle {
+    position: flex;
+    font-size: 50px;
+    margin-top: 0;
+    font-family: 'Lobster', helvetica, arial;
+    text-align: center;
+}
+
+   /* display: flex;
+    justify-content: center;
+    color: white;
+    /* border-style: solid;
+    border-color: lightblue;
+    border-width: 1px;
+    background-color: white;
+ */ 
+
+
+ /* .navigation { 
+    display: flex;
+    flex-direction: row; 
+    float: right;
+    background-color:white;
+    color: black;
+    border: 2px solid gray;
+   }  */
+
+
+
+.title {
+    text-align: center;
+    border-style: solid;
+    border-color: lightblue;
+    border-width: 1px;
+}
+
+body {
+    background-image: url(https://image.freepik.com/free-photo/old-barn-wall-wood-background_1101-2483.jpg);
+    font-family: 'merriweather', serif;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: justify;
+    justify-content: center;
+    border-color: lightblue;
+    border-width: 1px; 
+    
+
+}
+
+.Focus {
+    border-style: solid;
+    border-color: lightblue;
+    border-width: 1px;
+    width: 450px; 
+    background-color: white;
+    color: black;
+    margin: 1em;
+    box-shadow: 5px 10px gray;
+    
+
+}
+
+.Chicks {
+    border-style: solid;
+    border-color: lightblue;
+    border-width: 1px;
+    width: 450px;
+    background-color: white;
+    color: black;
+    margin: 1em;
+    box-shadow: 5px 10px gray;
+    
+
+}
+
+.Pug {
+    border-style: solid;
+    border-color: lightblue;
+    border-width: 1px;
+    width: 450px;
+    background-color: white;
+    color: black;
+    margin: 1em;
+    box-shadow: 5px 10px gray;
+    
+}
+
+.engineer {
+    border-style: solid;
+    border-color: lightblue;
+    border-width: 1px;
+    width: 450px; 
+    background-color: white;
+    color: black;
+    margin: 1em;
+    box-shadow: 5px 10px gray;
+}
+
+.mac {
+    border-style: solid;
+    border-color: lightblue;
+    border-width: 1px;
+    width: 450px; 
+    background-color: white;
+    color: black;
+    margin: 1em;
+    box-shadow: 5px 10px gray;
+}
+
+/* .overlay {
+    display: flex;
+    position: absolute;
+} */
+
+img {
+    display: flex;
+    height: 300px;
+    width: 300px;
+    align-items: center;
+}
+
+.availability {
+    border-style: solid;
+    border-color: lightblue;
+    border-width: 1px;
+    color: black;
+    background-color: #BDBDBD;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px #0097a7;
+}
+
+.sizes {
+    text-indent: 10px;
+}
+
+.weight {
+    text-indent: 10px;
+}
+
+.valid {
+    font-size: 12px;
+}
+
+.units {
+    text-indent: 10px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.pricing {
+    text-indent: 10px;
+}
+
