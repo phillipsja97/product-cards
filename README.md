@@ -4,7 +4,7 @@
 This application will build a grid of cards for a company's products, and have them act dynamic across different devices and webpage sizes.
 
 ## Screenshots
-
+![product card preview](https://raw.githubusercontent.com/phillipsja97/product-cards/master/Screenshot.PNG)
 
 
 
